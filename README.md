@@ -1,5 +1,9 @@
-# NotProton
+# Disclaimer
 
+This this code is entirely written by AI.
+It ports NotProton version 1.0.3 to MacOS 15
+
+### NotProton
 NotProton enables the Steam Play experience from Linux Steam in the macOS Steam client.
 
 This is done by forcibly enabling the Steam Play functionality in macOS Steam (which is
